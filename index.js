@@ -7,4 +7,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height + 1 + " inches")
+console.log(height + 1 + (height/12) )
